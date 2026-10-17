@@ -55,5 +55,5 @@ I am an **Information Systems Student** interested in **technology, design, and 
 
 <p align="center">
   <!-- Ganti "YOUR_GITHUB_USERNAME" dengan username GitHub Anda -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=31A8FF&line=31A8FF&point=24292e&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imammahdy-ux&bg_color=ffffff&color=31A8FF&line=31A8FF&point=24292e&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
