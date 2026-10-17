@@ -13,7 +13,7 @@ I am an **Information Systems Student** interested in **technology, design, and 
   <a href="https://linkedin.com/in/username_anda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:email_anda@gmail.com" target="_blank">
+  <a href="mailto: imammahdy238@gmail.com" target="imammahdy238@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/username_anda" target="_blank">
