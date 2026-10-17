@@ -52,8 +52,7 @@ I am an **Information Systems Student** interested in **technology, design, and 
 ---
 
 ### 🔗 Contribution Activity
-
 <p align="center">
-  <!-- Ganti "YOUR_GITHUB_USERNAME" dengan username GitHub Anda -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imammahdy-ux&bg_color=ffffff&color=31A8FF&line=31A8FF&point=24292e&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imammahdy-ux&show_icons=true&theme=transparent&hide_border=true&title_color=31A8FF&icon_color=31A8FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imammahdy-ux&layout=compact&theme=transparent&hide_border=true&title_color=31A8FF" alt="Top Languages" width="48%" />
 </p>
